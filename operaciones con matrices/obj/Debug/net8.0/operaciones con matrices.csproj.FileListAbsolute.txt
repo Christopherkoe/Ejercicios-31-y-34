@@ -1,0 +1,28 @@
+C:\Users\jumbo\source\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.exe
+C:\Users\jumbo\source\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.deps.json
+C:\Users\jumbo\source\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.runtimeconfig.json
+C:\Users\jumbo\source\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.dll
+C:\Users\jumbo\source\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.pdb
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.AssemblyInfoInputs.cache
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.AssemblyInfo.cs
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.dll
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\refint\operaciones con matrices.dll
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.pdb
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.genruntimeconfig.cache
+C:\Users\jumbo\source\repos\operaciones con matrices\obj\Debug\net8.0\ref\operaciones con matrices.dll
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.exe
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.deps.json
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.runtimeconfig.json
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.dll
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\bin\Debug\net8.0\operaciones con matrices.pdb
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.AssemblyInfoInputs.cache
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.AssemblyInfo.cs
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.dll
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\refint\operaciones con matrices.dll
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.pdb
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\operaciones con matrices.genruntimeconfig.cache
+C:\Users\jumbo\Visual Studio proyect\repos\operaciones con matrices\obj\Debug\net8.0\ref\operaciones con matrices.dll
